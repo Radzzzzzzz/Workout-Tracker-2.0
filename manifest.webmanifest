@@ -1,0 +1,18 @@
+{
+  "id": "./",
+  "name": "Workout Tracker 2.0",
+  "short_name": "Workout 2.0",
+  "description": "A private workout log with plans, timers, EMOM, history and stats. Everything stays on this device.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f4ecdf",
+  "theme_color": "#f4ecdf",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
